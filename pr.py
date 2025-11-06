@@ -1,2 +1,2 @@
-def f()
+def f():
   return True
